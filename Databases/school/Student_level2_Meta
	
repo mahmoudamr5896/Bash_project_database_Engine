@@ -1,0 +1,5 @@
+pk:Id
+Id:int
+name:str
+age:int
+Grade:int
